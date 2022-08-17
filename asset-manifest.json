@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-react-site/static/css/main.d397386c.css",
+    "main.js": "/my-react-site/static/js/main.02c05909.js",
+    "static/media/profile.PNG": "/my-react-site/static/media/profile.65ee145e341382e2db90.PNG",
+    "static/media/chat_section.PNG": "/my-react-site/static/media/chat_section.2ca7c34e056a31ab5be4.PNG",
+    "static/media/conversation.PNG": "/my-react-site/static/media/conversation.e119f7f7af4f89ec21e8.PNG",
+    "static/media/visits.PNG": "/my-react-site/static/media/visits.f7fb1c84784b437e2597.PNG",
+    "static/media/signup.PNG": "/my-react-site/static/media/signup.94cb0ceb9471a79fb145.PNG",
+    "static/media/tdl_app.PNG": "/my-react-site/static/media/tdl_app.247aa0c8b5dabc256053.PNG",
+    "static/media/chat_app.PNG": "/my-react-site/static/media/chat_app.77196b9af26e14352b0b.PNG",
+    "static/media/create.PNG": "/my-react-site/static/media/create.e41f4e24b3d473ebf9c9.PNG",
+    "static/media/edit.PNG": "/my-react-site/static/media/edit.d2a1330bef8648d94b73.PNG",
+    "static/media/check.PNG": "/my-react-site/static/media/check.b6402f8d27caed6eebf6.PNG",
+    "static/media/view.PNG": "/my-react-site/static/media/view.ff8a72140a429331c9bf.PNG",
+    "static/media/update_post.PNG": "/my-react-site/static/media/update_post.c261b6a4586111de2ba3.PNG",
+    "static/media/snake.PNG": "/my-react-site/static/media/snake.b89b41b4276e11f42f5d.PNG",
+    "static/media/home.PNG": "/my-react-site/static/media/home.c7d20ae58da3161b824f.PNG",
+    "static/media/friends.PNG": "/my-react-site/static/media/friends.8d49d417556618c3bf0b.PNG",
+    "static/media/posts.PNG": "/my-react-site/static/media/posts.1ab7c9a5a6bf407cbebb.PNG",
+    "static/media/notifs.PNG": "/my-react-site/static/media/notifs.340860a7d13ea605aec1.PNG",
+    "static/media/login.PNG": "/my-react-site/static/media/login.057cd0a96ae618e05593.PNG",
+    "static/media/end.PNG": "/my-react-site/static/media/end.b30f27fb0462f71e5ca4.PNG",
+    "static/media/start.PNG": "/my-react-site/static/media/start.399f2b8c33243b76e691.PNG",
+    "index.html": "/my-react-site/index.html",
+    "main.d397386c.css.map": "/my-react-site/static/css/main.d397386c.css.map",
+    "main.02c05909.js.map": "/my-react-site/static/js/main.02c05909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d397386c.css",
+    "static/js/main.02c05909.js"
+  ]
+}
